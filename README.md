@@ -1,3 +1,3 @@
-# F-python
-## there is my new codespace
+there is nothing need to know
+there is only some my trash code lol
 
